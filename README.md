@@ -1,12 +1,1 @@
-### Hi there 👋
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...Hydrogen economy and carbon capture
-- 🌱 I’m currently learning ...How to integrate ML, AI, IoT and Blockchain in real life application using BigData
-- 👯 I’m looking to collaborate on ...Academic and professional collaboration
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...kazi.khoda@tamu.edu
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Kazi Monzure Khoda is a postdoctoral research associate at Texas A&M Energy Institute. He earned his Ph.D. in Chemical Engineering from Nanyang Technological University, Singapore (2013). He completed his B.Sc. in Chemical Engineering from Bangladesh University of Engineering and Technology (2008). His research activities are primarily focused on process system engineering through sustainable process integration, dynamic modeling, robust optimization, advanced process control system, risk assessment, and the inclusion of safety in design. He is co-author of more than 25 peer-reviewed journal articles and numerous international conference presentations. He is currently an active member of research projects in collaboration with academic institutions and the industry. He is also a certified blockchain developer by IBM and HarvardX, especially an expert on harnessing data with artificial intelligence and machine learning through data-driven methods (e.g., ANN, CNN, and GA) to enhance the industry 4.0 supply chain.
